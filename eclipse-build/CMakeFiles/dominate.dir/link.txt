@@ -1,0 +1,1 @@
+/usr/bin/c++ -Werror -Wall -Wextra -g -fopenmp CMakeFiles/dominate.dir/src/main.cpp.o CMakeFiles/dominate.dir/src/graph.cpp.o CMakeFiles/dominate.dir/src/serial_dominate.cpp.o CMakeFiles/dominate.dir/src/omp_dominate.cpp.o -o dominate  -lstdc++fs -lpthread 

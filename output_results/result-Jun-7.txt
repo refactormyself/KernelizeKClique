@@ -1,0 +1,125 @@
+/home/saheed/DEV/MSc/KCliqueKernel/cmake-build-debug/dominate
+
+Process Type          Num. of Vertices      Num. of Edges      Num. of Deleted Edges      Num. of Deleted Vertices           Duration
+
+SERIAL EdgeDom v1          100                   4750                  861                        0                        2.132357
+
+OpenMP EdgeDom v1          100                   4750                  787                        0                        0.820941
+
+SERIAL DOM. ALG-1          100                   4750                  987                        11                        0.000101
+
+OpenMP DOM. ALG-1          100                   4750                  814                        9                        0.000040
+
+SERIAL DOM. ALG-2          100                   4750                  8                        0                        0.042428
+
+OpenMP DOM. ALG-2          100                   4750                  8                        0                        0.016313
+
+SERIAL EdgeDom v1          200                   19500                  6917                        0                        25.168979
+
+OpenMP EdgeDom v1          200                   19500                  13871                        0                        4.794044
+
+SERIAL DOM. ALG-1          200                   19500                  3171                        17                        0.000465
+
+OpenMP DOM. ALG-1          200                   19500                  2815                        15                        0.000129
+
+SERIAL DOM. ALG-2          200                   19500                  0                        0                        0.339937
+
+OpenMP DOM. ALG-2          200                   19500                  0                        0                        0.131485
+
+SERIAL EdgeDom v1          300                   44250                  44249                        0                        0.887625
+
+OpenMP EdgeDom v1          300                   44250                  56197                        0                        0.415988
+
+SERIAL DOM. ALG-1          300                   44250                  19827                        77                        0.000769
+
+OpenMP DOM. ALG-1          300                   44250                  18042                        69                        0.000320
+
+SERIAL DOM. ALG-2          300                   44250                  0                        0                        1.131124
+
+OpenMP DOM. ALG-2          300                   44250                  0                        0                        0.438638
+
+SERIAL EdgeDom v1          400                   79000                  78999                        0                        1.951100
+
+OpenMP EdgeDom v1          400                   79000                  116790                        0                        1.136799
+
+SERIAL DOM. ALG-1          400                   79000                  30987                        88                        0.001350
+
+OpenMP DOM. ALG-1          400                   79000                  29429                        83                        0.000568
+
+SERIAL DOM. ALG-2          400                   79000                  1168                        0                        2.656501
+
+OpenMP DOM. ALG-2          400                   79000                  1169                        0                        1.017407
+
+SERIAL EdgeDom v1          500                   123750                  123749                        0                        3.481233
+
+OpenMP EdgeDom v1          500                   123750                  177122                        0                        2.030562
+
+SERIAL DOM. ALG-1          500                   123750                  41839                        93                        0.002014
+
+OpenMP DOM. ALG-1          500                   123750                  41436                        92                        0.003649
+
+SERIAL DOM. ALG-2          500                   123750                  1944                        0                        5.170567
+
+OpenMP DOM. ALG-2          500                   123750                  1943                        0                        1.979696
+
+SERIAL EdgeDom v1          600                   178500                  179253                        0                        5.210963
+
+OpenMP EdgeDom v1          600                   178500                  245606                        0                        3.809287
+
+SERIAL DOM. ALG-1          600                   178500                  31894                        56                        0.001849
+
+OpenMP DOM. ALG-1          600                   178500                  30264                        53                        0.001263
+
+SERIAL DOM. ALG-2          600                   178500                  0                        0                        8.958113
+
+OpenMP DOM. ALG-2          600                   178500                  0                        0                        3.390606
+
+SERIAL EdgeDom v1          700                   243250                  243249                        0                        9.373187
+
+OpenMP EdgeDom v1          700                   243250                  522845                        0                        6.847931
+
+SERIAL DOM. ALG-1          700                   243250                  79269                        125                        0.003500
+
+OpenMP DOM. ALG-1          700                   243250                  76971                        121                        0.002066
+
+SERIAL DOM. ALG-2          700                   243250                  1385                        0                        14.193551
+
+OpenMP DOM. ALG-2          700                   243250                  1385                        0                        5.486101
+
+SERIAL EdgeDom v1          800                   318000                  318000                        0                        14.655186
+
+OpenMP EdgeDom v1          800                   318000                  630462                        0                        10.071053
+
+SERIAL DOM. ALG-1          800                   318000                  85686                        116                        0.004216
+
+OpenMP DOM. ALG-1          800                   318000                  83637                        113                        0.002390
+
+SERIAL DOM. ALG-2          800                   318000                  9                        0                        21.606405
+
+OpenMP DOM. ALG-2          800                   318000                  9                        0                        8.354955
+
+SERIAL EdgeDom v1          900                   402750                  402748                        0                        19.962817
+
+OpenMP EdgeDom v1          900                   402750                  695671                        0                        12.420288
+
+SERIAL DOM. ALG-1          900                   402750                  117270                        142                        0.005269
+
+OpenMP DOM. ALG-1          900                   402750                  114999                        139                        0.002936
+
+SERIAL DOM. ALG-2          900                   402750                  7063                        0                        30.098284
+
+OpenMP DOM. ALG-2          900                   402750                  7060                        0                        11.461797
+
+SERIAL EdgeDom v1          1000                   497500                  498979                        0                        20.810093
+
+OpenMP EdgeDom v1          1000                   497500                  710848                        0                        17.308975
+
+SERIAL DOM. ALG-1          1000                   497500                  63652                        66                        0.003684
+
+OpenMP DOM. ALG-1          1000                   497500                  63652                        66                        0.002583
+
+SERIAL DOM. ALG-2          1000                   497500                  1811                        0                        52.923497
+
+OpenMP DOM. ALG-2          1000                   497500                  1215                        0                        16.109371
+
+Process finished with exit code 0

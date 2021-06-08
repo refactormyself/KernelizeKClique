@@ -1,0 +1,15 @@
+Process Type          Num. of Vertices      Num. of Edges      Num. of Deleted Edges      Num. of Deleted Vertices           Duration
+
+SERIAL EdgeDom v1          700                   243250                  36946                        0                        5110.61
+
+OpenMP EdgeDom v1          700                   243250                  43818                        0                        1995.36
+
+SERIAL DOM. ALG-1          700                   243250                  46185                        70                        0.00417176
+
+OpenMP DOM. ALG-1          700                   243250                  41787                        63                        0.00152461
+
+SERIAL DOM. ALG-2          700                   243250                  692                        0                        14.6343
+
+OpenMP DOM. ALG-2          700                   243250                  692                        0                        5.60781
+
+Process finished with exit code 0
